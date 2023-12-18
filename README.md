@@ -34,6 +34,7 @@ I speak both 🇷🇺 Russian and 🇬🇧 English languages.
 </div>
 
 ## Projects ##
+- [Telegram bot](https://github.com/MercuryHgO/BOTiskaf)
 - [Education Environment](https://github.com/MercuryHgO/EducationEnvironment) 
 - [Comerse Project Server](https://github.com/MercuryHgO/comerse_project_server)
 - ["Friendly" landing page](https://github.com/MercuryHgO/FriendlyLanding)
