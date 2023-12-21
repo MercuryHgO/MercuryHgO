@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img width=100 src="./recources/dancing-code.gif"/> MercuryHgO
+    <img width=200 src="./recources/dancing-code.gif"/> MercuryHgO
 </h1>
 
 <!--toc:start-->
